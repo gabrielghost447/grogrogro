@@ -43,4 +43,4 @@ end)
 
 -- Créditos
 local Credits = Window:NewTab("Credits")
-local CreditsSection = Credits:NewSection("Feito por ChatGPT")
+local CreditsSection = Credits:NewSection("Gabriel Andreatta") -- script desatualizado
